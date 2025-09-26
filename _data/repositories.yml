@@ -1,14 +1,17 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - abriasco
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - abstewart/DRaw
+  - abstewart/spring23-webdev-final-project
+  - abstewart/spring23-webdev-final-project-node
+  - abstewart/EECE4632_project_AES_on_FPGA
+  #- alshedivat/al-folio
+  #- jekyll/jekyll
+  # - twbs/bootstrap
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - mathjax/MathJax
+  # - jpswalsh/academicons

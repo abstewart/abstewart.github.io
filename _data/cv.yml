@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Andrew Briasco-Stewart
     - name: Date of Birth
-      value: 14th March 1879
+      value: May 2001
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachleors
+      institution: Northeastern University, Boston, MA, USA
+      year: 2024
       description:
         - Description 1.
         - Description 2.
