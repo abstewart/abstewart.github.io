@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.bu.edu/cs/phd-program/'>Boston University</a>. <a href='https://disc.bu.edu/'>DiSC Lab</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_andrew.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office: <a href='https://www.bu.edu/data-sciences-center/'>CCDS</a> 925</p>
