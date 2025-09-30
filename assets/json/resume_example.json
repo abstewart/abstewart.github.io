@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Andrew Briasco-Stewart",
-    "label": "Computer Scientist",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "andrew.briascostewart@gmail.com",
-    "phone": "",
-    "url": "https://abstewart.github.io/",
-    "summary": "Computer Science PhD candidate studying at Boston University",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Boston",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": "Massachusetts"
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "GitHub",
-        "username": "abstewart",
-        "url": "https://github.com/abstewart"
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
