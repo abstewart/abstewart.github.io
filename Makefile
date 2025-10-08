@@ -1,6 +1,11 @@
 
+all: clean build copycsa1
+
 build:
 	bundle exec jekyll build
+
+clean:
+	bundle exec jekyll clean
 
 dockerup:
 	docker compose up
