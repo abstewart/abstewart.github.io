@@ -149,25 +149,29 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
+      "level": "Beginner(1)-Master(5)",
+      "icon": "fa-solid fa-square-binary",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "C/C++/C#",
+        "Python",
+        "Java",
+        "JavaScript",
+        "OCaml",
+        "DLang",
+        "Assembly",
+        "Bash",
+        "SQL",
+        "MATLAB",
+        "HTML/CSS",
+        "MongoDB",
+        "P4",
+        "Verilog",
+        "ACL2S"
       ]
     }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
     {
       "language": "English",
       "fluency": "Fluent",
@@ -176,38 +180,81 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Computer Science",
+      "icon": "fa-solid fa-computer",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Computer Systems",
+        "Databases",
+        "Data",
+        "Hight Performance Computing (HPC)",
+        "Security"
       ]
     }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "Advent of Code Participation",
+      "summary": "Participate in the yearly advent of code challenge, see url below for main info page.",
+      "highlights": ["Annual", "Problem Solving", "Efficient Computing"],
+      "startDate": "2021-12-01",
+      "endDate": "",
+      "url": "https://adventofcode.com/"
+    },
+    {
+      "name": "Custom Language Compiler",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "highlights": ["Northeastern Compilers Course", "Languages: Custom, OCaml, C, Assembly"],
+      "startDate": "2024-01",
+      "endDate": "2024-04"
+    },
+    {
+      "name": "Rythm Rehab Revolution (RRR)",
+      "summary": "Group Capstone Project: Controller and Unity game for stroke rehabilitation.",
+      "highlights": ["Northeastern Course: Compilers", "Languages: Custom, OCaml, C, Assembly"],
+      "startDate": "2024-01",
+      "endDate": "2024-04"
+    },
+    {
+      "name": "National Parks Tracking and Review Website",
+      "summary": "Small-scale full web application about saving, reviewing, and rating national parks",
+      "highlights": ["Northeastern Course: Web Development", 
+                    "Frontend: React framework with Bootstrap",
+                    "Languages: HTML, CSS, JavaScript, React, MongoDB",
+                    "Backend: MongoDB with API to national parks site",
+                    "Pages: home, search, login, profile, details"],
+      "startDate": "2022-01",
+      "endDate": "2022-04"
+    },
+    {
+      "name": "AES Encryption on FPGA",
+      "summary": "Implemented AES encrypton algorithm in software, and in hardware on FPGA & compared performances of each",
+      "highlights": ["Northeastern Course: Hardware/Software Development for FPGAs",
+                    "Skills: FPGA, Python, Jupyter Notebook, Xilinx Vivado",
+                    "Hardware synthesized from subset of C. FPGA on PYNQ board accessed with Jupyter notebook", 
+                    "Analyzed and compared performance between software and hardware versions"],
+      "startDate": "2022-03",
+      "endDate": "2022-04"
+    },
+    {
+      "name": "Freecell",
+      "summary": "Implemented the game Freecell in java using the model, view, controller (MVC) pattern",
+      "highlights": ["Northeastern Course: Object Oriented Design",
+                    "Skills: Java, Obj. Oriented Design Principles, design patterns, git",
+                    "Project built up gradually starting with text interface, then graphical, then extended with multi-move"],
+      "startDate": "2022-03",
+      "endDate": "2022-04"
+    },
+    {
+      "name": "Museum Game Exhibit",
+      "summary": "A minecraft themed game attraction to teach young kids about agricultural sustainability",
+      "highlights": ["Northeastern Course: Cornerstone of Engineering 1&2",
+                    "Skills: Arduino, C++, Engineering Design Principles, woodworking, soldering, circuits",
+                    "Designed, built, testing, and ultimately displayed at the Museum of Science in Boston",
+                    "MATLAB GUI display with Arduino controlled circuitry for physical interaction"],
+      "startDate": "2019-09",
+      "endDate": "2019-12"
     }
   ]
 }
