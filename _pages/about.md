@@ -11,6 +11,8 @@ profile:
   more_info: >
     <p>Office: <a href='https://www.bu.edu/data-sciences-center/'>CCDS</a> 925</p>
     <p>City: Boston, MA</p>
+    <p>Email: abriasco@bu.edu</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +28,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Computer Science PhD candidate advised by Manos Athanassoulis. My research interests are in computer systems, data systems, software engineering, and 
+I am a Computer Science PhD candidate advised by Manos Athanassoulis. My research interests are in computer systems, data systems, software engineering, and the boundary between software and hardware.
 
-Prior to Boston University, I grew up in Massachusetts and attended Northeastern University where I graduated Summa Cum Laude with my Bachelors in Computer Engineering / Computer Science. During my time there I [Co-op](https://www.northeastern.edu/experiential-learning/co-op/)'d at [Intel](https://www.intel.com/content/www/us/en/homepage.html), [Wolters Kluwer](https://www.wolterskluwer.com/en/health), and [MORSE Corp.](https://www.morsecorp.com/).
+Prior to Boston University, I grew up in Massachusetts and attended Northeastern University where I graduated Summa Cum Laude with my Bachelors in Computer Engineering / Computer Science from the College of Engineering. During my time there I [Co-op](https://www.northeastern.edu/experiential-learning/co-op/)'d at [Intel](https://www.intel.com/content/www/us/en/homepage.html), [Wolters Kluwer](https://www.wolterskluwer.com/en/health), and [MORSE Corp.](https://www.morsecorp.com/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
